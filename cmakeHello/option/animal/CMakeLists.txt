@@ -1,0 +1,11 @@
+option(USE_CATTWO "Use cat2" ON)
+if(USE_CATTWO)
+    set(SRC cat.cpp dog.cpp cat2.cpp)
+else()
+    set(SRC cat.cpp dog.cpp)
+endif()
+add_library(libanimal ${SRC})
+
+if(USE_CATTWO)
+    target_compile_definitions(libanimal PUBLIC USE_CATTWO)
+endif()

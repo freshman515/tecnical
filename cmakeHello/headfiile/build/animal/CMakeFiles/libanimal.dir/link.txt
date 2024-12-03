@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibanimal.a CMakeFiles/libanimal.dir/dog.cpp.o CMakeFiles/libanimal.dir/cat.cpp.o
+/usr/bin/ranlib liblibanimal.a

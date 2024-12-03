@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.20)
+
+function(MyFunc ARGS)
+    message("function name : ${CMAKE_CURRENT_FUNCTION}")
+    message("ARGS: ${ARGS}")
+    set(ARGS "hello world")
+    message("ARGS: again: ${ARGS}")
+    message("ARGV0 : ${ARGV0}")
+    message("ARGV1 : ${ARGV1}")
+    message("ARGV2 : ${ARGV2}")
+endfunction(MyFunc ARGS)
+
+set(ARGS "values1")
+MyFunc(${ARGS} zhangsan)
+message(----------------)
+message("ARGS = ${ARGS}")

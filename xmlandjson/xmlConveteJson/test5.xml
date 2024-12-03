@@ -1,0 +1,16 @@
+<root>
+    <man age="88">
+        <age>100000</age>
+        <name>劳大</name>
+    </man>
+    <woman>
+        <lisi ren="yes">
+            <age>78</age>
+            <name>李四</name>
+        </lisi>
+        <loshi age="18" loc="china">
+            <gender>女人</gender>
+            <name>路西</name>
+        </loshi>
+    </woman>
+</root>

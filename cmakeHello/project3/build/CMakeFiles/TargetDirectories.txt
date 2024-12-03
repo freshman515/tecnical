@@ -1,0 +1,6 @@
+/home/xmf/myTechnical/cmakeHello/project3/build/CMakeFiles/Animal.dir
+/home/xmf/myTechnical/cmakeHello/project3/build/CMakeFiles/edit_cache.dir
+/home/xmf/myTechnical/cmakeHello/project3/build/CMakeFiles/rebuild_cache.dir
+/home/xmf/myTechnical/cmakeHello/project3/build/animal/CMakeFiles/libanimal.dir
+/home/xmf/myTechnical/cmakeHello/project3/build/animal/CMakeFiles/edit_cache.dir
+/home/xmf/myTechnical/cmakeHello/project3/build/animal/CMakeFiles/rebuild_cache.dir

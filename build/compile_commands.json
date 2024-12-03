@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/xmf/myTechnical/build",
+  "command": "/usr/bin/g++  -I/home/xmf/myTechnical/build -I/home/xmf/myTechnical/cmakeHello/headfiile/animal -g -std=gnu++11 -o CMakeFiles/Animal.dir/main.cpp.o -c /home/xmf/myTechnical/cmakeHello/headfiile/main.cpp",
+  "file": "/home/xmf/myTechnical/cmakeHello/headfiile/main.cpp"
+},
+{
+  "directory": "/home/xmf/myTechnical/build/animal",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/libanimal.dir/dog.cpp.o -c /home/xmf/myTechnical/cmakeHello/headfiile/animal/dog.cpp",
+  "file": "/home/xmf/myTechnical/cmakeHello/headfiile/animal/dog.cpp"
+},
+{
+  "directory": "/home/xmf/myTechnical/build/animal",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/libanimal.dir/cat.cpp.o -c /home/xmf/myTechnical/cmakeHello/headfiile/animal/cat.cpp",
+  "file": "/home/xmf/myTechnical/cmakeHello/headfiile/animal/cat.cpp"
+}
+]

@@ -1,0 +1,32 @@
+{
+    "man": {
+        "@age": "88",
+        "age": {
+            "_text": "100000"
+        },
+        "name": {
+            "_text": "劳大"
+        }
+    },
+    "woman": {
+        "lisi": {
+            "@ren": "yes",
+            "age": {
+                "_text": "78"
+            },
+            "name": {
+                "_text": "李四"
+            }
+        },
+        "loshi": {
+            "@age": "18",
+            "@loc": "china",
+            "gender": {
+                "_text": "女人"
+            },
+            "name": {
+                "_text": "路西"
+            }
+        }
+    }
+}

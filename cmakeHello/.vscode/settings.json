@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.in": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/xmf/myTechnical/cmakeHello/project4/animal"
+}

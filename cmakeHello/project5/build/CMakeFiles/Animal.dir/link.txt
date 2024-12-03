@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Animal.dir/main.cpp.o animal/CMakeFiles/libdog.dir/dog.cpp.o animal/CMakeFiles/libcat.dir/cat.cpp.o -o Animal 

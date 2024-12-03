@@ -1,0 +1,3 @@
+/home/xmf/myTechnical/libcurl/httpproject/build/CMakeFiles/HttpClientTest.dir
+/home/xmf/myTechnical/libcurl/httpproject/build/CMakeFiles/edit_cache.dir
+/home/xmf/myTechnical/libcurl/httpproject/build/CMakeFiles/rebuild_cache.dir

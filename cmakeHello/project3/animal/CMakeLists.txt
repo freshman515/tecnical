@@ -1,0 +1,1 @@
+add_library(libanimal dog.cpp cat.cpp)

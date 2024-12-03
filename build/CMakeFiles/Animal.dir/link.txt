@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Animal.dir/main.cpp.o -o Animal  animal/liblibanimal.a 

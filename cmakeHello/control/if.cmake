@@ -1,0 +1,35 @@
+cmake_minimum_required(VERSION 3.20)
+set(VARBOOL TRUE)
+if(VARBOOL )
+    message(TRUE)
+else()
+    message(FALSE)
+endif()
+if(NOT VARBOOL)
+    message(TRUE)
+else()
+    message(FALSE)
+endif()
+
+if(NOT VARBOOL AND VARBOOL)
+    message(TRUE)
+else()
+    message(FALSE)
+endif()
+
+if(NOT VARBOOL OR VARBOOL)
+    message(TRUE)
+else()
+    message(FALSE)
+endif()
+
+message(-----------------------------)
+
+if(1 LESS 2)
+    message("1 LESS 2")
+endif()
+
+if(88 EQUAL "88")
+    message("EQUAL")
+endif()
+    

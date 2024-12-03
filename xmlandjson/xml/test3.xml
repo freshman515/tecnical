@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <man>
+        <name>joker</name>
+        <age>18</age>
+    </man>
+    <nan>
+        <name age="28">老大</name>
+        <!-- 属性，用来表示标签的额外信息-->
+    </nan>
+</root>
