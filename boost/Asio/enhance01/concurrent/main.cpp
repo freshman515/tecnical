@@ -4,7 +4,6 @@
 #include<vector>
 #include<functional>
 
-//#include<string.h>
 void client_handle(boost::asio::ip::tcp::socket socket) {
     auto data = std::make_shared<std::array<char, 4096>>();
     auto sock_ptr = std::make_shared<boost::asio::ip::tcp::socket>(std::move(socket));
