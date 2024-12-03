@@ -33,9 +33,11 @@ public:
     }
 
     // 打印数据
+    //print
     void print() const {
         std::cout << "Data: " << data << "\n";
     }
+
 };
 
 int main() {
