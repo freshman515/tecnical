@@ -24,7 +24,7 @@ int main() {
     boost::asio::steady_timer timer(io, boost::asio::chrono::seconds(5));
 
     boost::asio::ip::tcp::socket socket(io);
-    boost::asio::ip::tcp::endpoint endpoint(boost::asio::ip::tcp::v4(), 12345);
+    boost::asio::ip::tcp::endpoint endpoint(boost::asio::ip::address::from_string("127.0.0.1"), 12345);
     socket.async_connect(endpoint, [&](const boost::system::error_code& ec) {
         if (!ec) {
             repeat(timer, socket);
